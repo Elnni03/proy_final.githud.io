@@ -1,0 +1,23 @@
+#listado{
+    background-image: url('../assets/img/biblioteca.jpg');
+    background-size: cover; /* Ajusta la imagen para que cubra todo el elemento */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    opacity: 0.98;
+    z-index: -1;
+}
+
+#miListado{
+
+    opacity: 0.9;
+}
+
+#contacto{
+    background-image: url('../assets/img/bgContacto.jpg');
+    background-size: cover; /* Ajusta la imagen para que cubra todo el elemento */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    opacity: 0.98;
+    z-index: -1;
+}
+
